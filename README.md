@@ -7,10 +7,10 @@
 
 # Introduction to GitHub - There is a change in the branch file
 
-_Get started using GitHub in less than an hour. I may take longer than that!!_
+_Get started using GitHub in less than an hour. It may take much longer than that!!_
 
 <!-- 
-  <<< Author notes: Start of the course >>> 
+  <<< Author notes: Start of the course >>>t
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
