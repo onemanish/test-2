@@ -13,10 +13,6 @@ _Added a second line_
 _This should be third line from Git-desktop_
 Corrected from Vscode
 
-_Added a second line_
-
--This should be third line from Git-desktop_
-
 <!-- 
   <<< Author notes: Start of the course >>>t
   Include start button, a note about Actions minutes,
