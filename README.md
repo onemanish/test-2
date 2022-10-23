@@ -9,6 +9,8 @@
 
 _Get started using GitHub in less than an hour. It may take much longer than that!!_
 
+-This should be third line from Git-desktop_
+
 <!-- 
   <<< Author notes: Start of the course >>>t
   Include start button, a note about Actions minutes,
