@@ -8,6 +8,10 @@
 # Introduction to GitHub - There is a change in the branch file
 
 _Get started using GitHub in less than an hour. It may take much longer than that!!_
+_Added a second line_
+
+_This should be third line from Git-desktop_
+Corrected from Vscode
 
 _Added a second line_
 
