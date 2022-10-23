@@ -8,6 +8,7 @@
 # Introduction to GitHub - There is a change in the branch file
 
 _Get started using GitHub in less than an hour. It may take much longer than that!!_
+_Added a second line_
 
 <!-- 
   <<< Author notes: Start of the course >>>t
